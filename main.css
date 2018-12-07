@@ -6677,6 +6677,9 @@ label {
   text-decoration: none;
   border: none; }
 
+.news > div > ul {
+  margin-bottom: 0px; }
+
 @media (max-width: 640px) {
   .weather {
     color: black;
